@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrivateUseOnly
+- 👋 Hi, I’m Kamil
 - 👀 I’m interested in Java, C++
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on simple projects that makes life/job easier
