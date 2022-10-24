@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamil
-- 👀 I’m interested in Sim Racing, Programming and Pentesting
+- 👀 I’m interested in Mobile device programming
 - 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on simple projects that makes life/job easier
+- 💞️ I’m looking to collaborate on projects that makes life/jobs easier
 - 📫 How to reach me? You probably know, because you got here.
 - https://www.codewars.com/users/PrivateUseOnly/badges/micro
