@@ -1,6 +1,2 @@
-- 👋 Hi, I’m Kamil
-- 👀 I’m interested in Mobile device programming
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on projects that makes life/jobs easier
-- 📫 How to reach me? You probably know, because you got here.
-- https://www.codewars.com/users/PrivateUseOnly/badges/micro
+👀 I’m interested in all kinds of programming
+Busy with Arduino Projects
